@@ -47,7 +47,7 @@
     </li>
 </ul>
 
-With respect to Databricks DBFS, this Universal Task also provides a feature to upload larger files.
+        <p>With respect to Databricks DBFS, this Universal Task also provides a feature to upload larger files.</p>
 <p>&nbsp;</p>
 Please visit this link to find key features, prerequisites, installation instructions, configuration instructions, and examples of how to use this integration. 
 <a href="https://docs.stonebranch.com/confluence/display/UC69/UAC+-+Databricks">UAC - Databrick</a>.&nbsp;</li>
